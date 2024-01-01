@@ -4,7 +4,6 @@
 }
 @include media-breakpoint-up(lg) {
     .hero {
-        padding-top: 144px;
         padding-bottom: 144px;
     }
 }
@@ -12,4 +11,13 @@
 .hero-image {
     max-height: 100%;
     max-width: 100%;
+}
+
+.promote-stat {
+    min-height: 372px;
+}
+
+.promote-icon {
+    width: 140px;
+    height: 140px;
 }

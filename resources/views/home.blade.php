@@ -62,6 +62,26 @@
           </div>
         </section>
 
+        <section class="container promote-stat">
+          <div class="row">
+            <div class="col-12 col-lg-4 text-center">
+              <img class="promote-icon mb-2" src="{{ asset('assets/images/discussions.png') }}" alt="discussions">
+              <h2>Discussion</h2>
+              <p class="fs-3">34834</p>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+              <img class="promote-icon mb-2" src="{{ asset('assets/images/answers.png') }}" alt="answer">
+              <h2>Answer</h2>
+              <p class="fs-3">121984</p>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+              <img class="promote-icon mb-2" src="{{ asset('assets/images/users.png') }}" alt="users">
+              <h2>Users</h2>
+              <p class="fs-3">11675</p>
+            </div>
+          </div>
+        </section>
+
       <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     </body>
 </html>
